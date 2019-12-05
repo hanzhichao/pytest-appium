@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: pytest-appium
+Version: 0.1
+Summary: Pytest plugin for appium
+Home-page: https://github.com/hanzhichao/pytest-appium
+Author: Han Zhichao
+Author-email: superhin@126.com
+License: MIT license
+Description: Pytest plugin for appium
+Keywords: pytest,py.test,appium
+Platform: UNKNOWN
+Classifier: Framework :: Pytest
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.7

@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+pytest_appium/__init__.py
+pytest_appium/plugin.py
+pytest_appium.egg-info/PKG-INFO
+pytest_appium.egg-info/SOURCES.txt
+pytest_appium.egg-info/dependency_links.txt
+pytest_appium.egg-info/entry_points.txt
+pytest_appium.egg-info/requires.txt
+pytest_appium.egg-info/top_level.txt
+pytest_appium.egg-info/zip-safe

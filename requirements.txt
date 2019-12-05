@@ -1,0 +1,3 @@
+pytest
+Appium-Python-Client
+pytest-variables
